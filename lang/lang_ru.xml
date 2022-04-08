@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<lang>
+  <string key="START_RPC" value="Запустить RPC"></string>
+  <string key="STOP_RPC" value="Остановить RPC"></string>
+  <string key="ENABLE_NOTIFY_ICON" value="Включить иконку в трее"></string>
+  <string key="DISABLE_NOTIFY_ICON" value="Выключить иконку в трее"></string>
+  <string key="CONTROL_PANEL" value="Управление"></string>
+  <string key="OTHER_PANEL" value="Настройки RPC"></string>
+  <string key="TEXT_LABEL" value="Текст"></string>
+  <string key="DETAILS_LABEL" value="Детали"></string>
+  <string key="BIG_IMAGE_KEY" value="Имя большого изображения"></string>
+  <string key="SMALL_IMAGE_KEY" value="Имя маленького изображения"></string>
+  <string key="APP_TOKEN_LABEL" value="Токен приложения"></string>
+  <string key="SETTINGS" value="Настройки"></string>
+</lang>

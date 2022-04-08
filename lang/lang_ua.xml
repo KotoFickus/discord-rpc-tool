@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<lang>
+  <string key="START_RPC" value="Запустити RPC"></string>
+  <string key="STOP_RPC" value="Зупинити RPC"></string>
+  <string key="ENABLE_NOTIFY_ICON" value="Увімкнути іконку"></string>
+  <string key="DISABLE_NOTIFY_ICON" value="Вимкнути"></string>
+  <string key="CONTROL_PANEL" value="Керування"></string>
+  <string key="OTHER_PANEL" value="Налаштування RPC"></string>
+  <string key="TEXT_LABEL" value="Текст"></string>
+  <string key="DETAILS_LABEL" value="Деталі"></string>
+  <string key="BIG_IMAGE_KEY" value="Ім'я великого зображення"></string>
+  <string key="SMALL_IMAGE_KEY" value="Ім'я маленького зображення"></string>
+  <string key="APP_TOKEN_LABEL" value="Токен додатку"></string>
+  <string key="SETTINGS" value="Налаштування"></string>
+</lang>

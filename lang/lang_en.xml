@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<lang>
+  <string key="START_RPC" value="Start RPC"></string>
+  <string key="STOP_RPC" value="Stop RPC"></string>
+  <string key="ENABLE_NOTIFY_ICON" value="Enable tray icon"></string>
+  <string key="DISABLE_NOTIFY_ICON" value="Disable tray icon"></string>
+  <string key="CONTROL_PANEL" value="Controls"></string>
+  <string key="OTHER_PANEL" value="RPC Settings"></string>
+  <string key="TEXT_LABEL" value="Text"></string>
+  <string key="DETAILS_LABEL" value="Details"></string>
+  <string key="BIG_IMAGE_KEY" value="Big image name"></string>
+  <string key="SMALL_IMAGE_KEY" value="Small image name"></string>
+  <string key="APP_TOKEN_LABEL" value="App token"></string>
+  <string key="APP_TOKEN_LABEL" value="Settings"></string>
+</lang>
